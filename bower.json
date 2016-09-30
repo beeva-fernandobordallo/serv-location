@@ -1,0 +1,15 @@
+{
+  "name": "serv-location",
+  "description": "Service element which will observe the URL bar and keep a register of pages interested in receiving notice of them being accessed. Use behaviour to implement its use",
+  "main": "serv-location.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.4.0",
+    "iron-location": "PolymerElements/iron-location#^0.8.8"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
+    "web-component-tester": "^4.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  }
+}
